@@ -1,2 +1,19 @@
 # language-log
-Learning record sharing app for language and linguistics study.
+語学・言語学サークル向けの学習記録共有アプリです。Spring Boot（バックエンド）と React（フロントエンド）で構成されています。
+
+## 📚 機能一覧
+
+- ユーザー登録・ログイン
+- 学習記録の投稿（テキスト＋音声＋画像）
+- 投稿に対するコメント・リアクション
+- 投稿の言語・分野・タグ管理
+- 教材のリンク共有
+
+## 🛠 技術スタック
+
+| 種類         | 使用技術       |
+|--------------|----------------|
+| フロントエンド | React, TypeScript |
+| バックエンド   | Spring Boot, Java |
+| データベース   | PostgreSQL |
+| API設計      | RESTful / Notion管理 |
