@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 開発環境用プロパティ（ローカル限定）###
+src/main/resources/application-local.properties
